@@ -13,6 +13,7 @@
 4.Write a java program to Find the smallest number among three numbers.
 
 ![Image](https://github.com/user-attachments/assets/37b4203e-e0ec-48cf-af66-34020ee60925)
+
 5.Write a Java program that takes the purchase amount as input and calculates the final payable amount after applying the discount.
 
 ![Image](https://github.com/user-attachments/assets/31fe8735-f56c-4dba-9094-09b6f03d3375)
